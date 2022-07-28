@@ -13,6 +13,10 @@ navbar{
 	cursor: pointer;
 	text-decoration: none;
 }
-.nav-link:hover{
-	background-color: blue;
+
+.main{
+	background: url(./img\proofile.jpg)no-repeat;
+	background-size: cover;
+	width: 100%
+	height: 100vh;
 }
